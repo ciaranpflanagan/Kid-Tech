@@ -1,0 +1,156 @@
+body {
+
+	background-color: #E9E9E9;
+	font-family: sans-serif;
+}
+a:link {
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	color: #6E90E6;
+}
+a:visited {
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	color: #6E90E6;
+}
+a:hover {
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	color: #FF8E52;
+}
+a:active {
+	text-decoration: none;
+	font-family: 'Oswald', sans-serif;
+	color: #4469C7;
+}
+.kid {
+
+	color: orange;
+}
+
+.tech {
+
+	color: #565656;
+}
+
+.badge {
+
+	color: #FBEE36;
+}
+
+h2.logo {
+
+	position: absolute;
+	top: 30px;
+	left: 10%;
+}
+
+ul.social-links {
+
+	position: absolute;
+	top: 30px;
+	right: 10%;
+	z-index: 1.0;
+}
+
+li.social {
+
+	display: inline;
+	list-style-type: none;
+}
+
+a.facebook {
+
+	color: #3556E8;
+	text-decoration: none;
+}
+
+a.twitter {
+
+	color: #64BBF5;
+	text-decoration: none;
+}
+
+a.googleplus {
+
+	color: #DE1212;
+	text-decoration: none;
+}
+
+ul.navbar {
+
+	position: absolute;
+	top: 100px;
+	left: 8%;
+	width: 80%;
+	height: 55px;
+	border-top: 2px solid #BDBDBD;
+}
+
+li.navbar {
+
+	display: inline;
+	padding: 15px;
+	list-style-type: none;
+}
+
+a.navbar {
+
+	color: #6E90E6;
+	text-decoration: none;
+}
+
+a.navbar:hover {
+
+	color: #FF8E52;
+}
+
+div.wrapper {
+
+	z-index: 0.9;
+	position: absolute;
+	top: 190px;
+	left: 8%;
+	width: 85%;
+}
+
+div.slider {
+
+	width: 98%;
+	height: 250px;
+	background-color: red;
+}
+
+div.footer {
+
+	z-index: 1.0;
+	position: absolute;
+	left: 0px;
+	width: 100%;
+	height: 100px;
+	border-top: 2px solid #999999;
+}
+
+small {
+
+	color: #B5B5B5;
+}
+
+.text-center {
+
+	text-align: center;
+}
+
+p.globe {
+
+	color: #2BC3ED;
+}
+
+ul.team {
+
+}
+
+li.member {
+
+	display: inline;
+}
